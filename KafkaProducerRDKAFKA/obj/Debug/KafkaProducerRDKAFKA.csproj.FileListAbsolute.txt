@@ -1,0 +1,12 @@
+c:\users\afhassan\source\repos\KafkaProducerRDKAFKA\KafkaProducerRDKAFKA\bin\Debug\x86\librdkafka.dll
+c:\users\afhassan\source\repos\KafkaProducerRDKAFKA\KafkaProducerRDKAFKA\bin\Debug\x86\zlib.dll
+c:\users\afhassan\source\repos\KafkaProducerRDKAFKA\KafkaProducerRDKAFKA\bin\Debug\x64\librdkafka.dll
+c:\users\afhassan\source\repos\KafkaProducerRDKAFKA\KafkaProducerRDKAFKA\bin\Debug\x64\zlib.dll
+c:\users\afhassan\source\repos\KafkaProducerRDKAFKA\KafkaProducerRDKAFKA\bin\Debug\KafkaProducerRDKAFKA.exe.config
+c:\users\afhassan\source\repos\KafkaProducerRDKAFKA\KafkaProducerRDKAFKA\bin\Debug\KafkaProducerRDKAFKA.exe
+c:\users\afhassan\source\repos\KafkaProducerRDKAFKA\KafkaProducerRDKAFKA\bin\Debug\KafkaProducerRDKAFKA.pdb
+c:\users\afhassan\source\repos\KafkaProducerRDKAFKA\KafkaProducerRDKAFKA\bin\Debug\RdKafka.dll
+c:\users\afhassan\source\repos\KafkaProducerRDKAFKA\KafkaProducerRDKAFKA\obj\Debug\KafkaProducerRDKAFKA.csprojResolveAssemblyReference.cache
+c:\users\afhassan\source\repos\KafkaProducerRDKAFKA\KafkaProducerRDKAFKA\obj\Debug\KafkaProducerRDKAFKA.csproj.CoreCompileInputs.cache
+c:\users\afhassan\source\repos\KafkaProducerRDKAFKA\KafkaProducerRDKAFKA\obj\Debug\KafkaProducerRDKAFKA.exe
+c:\users\afhassan\source\repos\KafkaProducerRDKAFKA\KafkaProducerRDKAFKA\obj\Debug\KafkaProducerRDKAFKA.pdb
